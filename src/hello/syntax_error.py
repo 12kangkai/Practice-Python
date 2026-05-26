@@ -1,0 +1,1 @@
+print（'hello'）//SyntaxError: invalid character '（' (U+FF08)
